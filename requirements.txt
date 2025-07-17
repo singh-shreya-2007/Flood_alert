@@ -4,6 +4,6 @@ python-dotenv
 twilio
 deep-translator
 pandas
-scikit-learn==1.6.1
+scikit-learn
 pickle-mixin
 smtplib
